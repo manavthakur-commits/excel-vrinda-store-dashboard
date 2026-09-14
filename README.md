@@ -2,11 +2,16 @@
 
 An Excel-based sales analysis of **Vrinda Store**, an Indian D2C/e-commerce apparel brand, covering FY2022 order data across multiple sales channels (Amazon, Flipkart, Myntra, Ajio, Meesho, Nalli, and others). The workbook contains raw transactional data, PivotTables, and dashboard-style summary sheets built from it.
 
+## 📈 Dashboard Preview
+
+![Vrinda Store Annual Report 2022 Dashboard](images/dashboard.png)
+
 ## 📁 Repository Contents
 
 | File | Description |
 |---|---|
 | `Vrinda_Store_Data_Analysis.xlsx` | Full workbook — raw order data, pivot tables, and summary sheets |
+| `images/dashboard.png` | Screenshot of the consolidated dashboard (Report 2022 sheet) |
 
 ## 📊 Workbook Structure
 
