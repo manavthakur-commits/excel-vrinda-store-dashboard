@@ -4,7 +4,9 @@ An Excel-based sales analysis of **Vrinda Store**, an Indian D2C/e-commerce appa
 
 ## 📈 Dashboard Preview
 
-![Vrinda Store Annual Report 2022 Dashboard](images/dashboard.png)
+![Vrinda Store Annual Report 2022 Dashboard](<img width="1856" height="612" alt="Screenshot 2026-09-14 200505" src="https://github.com/user-attachments/assets/8fc3dd11-13cd-45b9-9d9c-51e225b22838" />)
+
+
 
 ## 📁 Repository Contents
 
